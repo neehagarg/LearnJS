@@ -1,0 +1,20 @@
+[
+    {
+        "type": "3 BHK",
+        "price": 30000,
+        "rooms": 3,
+        "available": true
+    },
+    {
+        "type": "2 BHK",
+        "price": 22000,
+        "rooms": 2,
+        "available": true
+    },
+    {
+        "type": "1 BHK",
+        "price": 15000,
+        "rooms": 1,
+        "available": false
+    }
+]
